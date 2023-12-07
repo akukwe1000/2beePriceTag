@@ -1,0 +1,120 @@
+*{
+    padding: o;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.gen{
+    /* height: 800px; */
+    width: 100%;
+    /* border: 2px solid tomato; */
+    padding-top: 10px;
+    background: rgb(245, 245, 245);
+    margin-bottom: 200px;
+}
+.imgCOn{
+    display: flex;
+    /* height: 30px; */
+    justify-content: center;
+    /* border: 2px solid rgb(33, 119, 52); */
+    margin-bottom: 10px;
+
+}
+.rice{
+    /* border: 2px solid red; */
+    height: 120px;
+    width: 120px;
+    margin-right: 10px;
+    border-radius: 20px;
+}
+.imgScale{
+    height: 100%;
+    width: 100%;
+    border-radius: 10px;
+}
+.logoCon{
+    /* border: 2px solid rgb(33, 119, 52); */
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+
+}
+.logo{
+/* border: 2px solid tomato; */
+height: 40px;
+width: 40px;
+margin-right: 10px;
+}
+.logoCon P{
+    font-size: 22px;
+    font-weight: bold;
+}
+.cinese{
+    text-align: center;
+    margin-top: 20px;
+    color: red;
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+
+/* .dotgen{
+    display: flex;
+    align-items: center;
+    height: 30px;
+    
+}
+
+.dot{
+    font-size: 50px;
+    margin-left: 10px;
+    color: red;
+}
+.chineseRice{
+    font-size: 20px;
+    padding: 0;
+} */
+
+.dotGen{
+    /* border: 2px solid green; */
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+.dotimg{
+    height: 15px;
+    width: 15px;
+    margin-left: 10px;
+    margin-right: 5px;
+}
+.chi{
+    margin-left:35px ;
+}
+.chineseRice{
+    font-size: 18px;
+}
+.servedOn{
+    text-align: center;
+    font-size: 20px;
+}
+.pricecon{
+    text-align: center;
+    margin-top: 10px;
+    font-size: 22px;
+}
+.amount{
+    color: red;
+}
+.phoneIcon{
+    height: 20px;
+    width: 20px;
+}
+.phonecon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.prices{
+    margin-top: 10px;
+    font-size: 20px;
+}

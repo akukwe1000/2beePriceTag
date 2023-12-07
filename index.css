@@ -1,0 +1,142 @@
+.gen{
+    border: 2px solid tomato;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contain{
+    display: flex;
+    /* justify-content: center; */
+    /* border: 2px solid rgb(92, 71, 255); */
+    flex-direction: column;
+    align-items: center;
+
+}
+.con{
+    /* border: 2px solid tomato; */
+    /* height: 500px; */
+    width: 500px;
+    
+    
+}
+.browse{
+    background: rgb(18, 184, 29);
+    color: white;
+    font-size: 22px;
+    font-weight: bold;
+    width: fit-content;
+    padding: 0 10px;
+}
+.legit{
+    margin-top: 5px;
+    font-size: 22px;
+    font-weight: bold;
+}
+main{
+    /* border: 2px solid rgb(255, 123, 71); */
+    display: flex;
+    margin-top: 10px;
+
+}
+.price{
+    /* border: 2px solid rgb(71, 255, 105); */
+    width: 57%;
+    height: 446px;
+    margin-right: 10px;
+    
+}
+.image{
+    /* border: 2px solid rgb(71, 80, 255); */
+    height: 500px;
+    width: 40%;
+
+}
+.pix{
+    height: 100%;
+    width: 100%;
+}
+.top{
+    height: 170px;
+    /* border: 2px solid rgb(71, 80, 255); */
+    display: flex;
+
+}
+.mtn{
+    height: 98%;
+    width: 48%;
+    border: 2px solid rgb(255, 215, 71);
+    margin-right: 10px;
+    border-radius: 5px;
+    background: rgb(255, 215, 71);
+}
+.glo{
+    height: 98%;
+    width: 48%;
+    border-radius: 5px;
+    /* border: 2px solid rgb(4, 92, 19); */
+    background: rgb(28, 190, 55);
+    /* color: white; */
+
+}
+.airtel{
+    height: 98%;
+    width: 48%;
+    /* border: 2px solid rgb(215, 36, 20); */
+    background:  rgb(236, 58, 41);
+    /* color: white; */
+    border-radius: 5px;
+    margin-right: 10px;
+
+}
+.NineMobile{
+    height: 98%;
+    width: 48%;
+    border-radius: 5px;
+    /* border: 2px solid rgb(10, 7, 7); */
+    background: black;
+    color: white;
+}
+.other{
+    color: rgb(57, 57, 219);
+    font-size: 12px;
+    font-weight: bolder;
+    margin-left: 20px;
+    margin-bottom: 0;
+}
+.bullet{
+    margin-left: 5px;
+}
+
+/* this is to make them bold */
+.b{
+    font-weight: bold;
+}
+.sun{
+    font-weight: bolder;
+    font-size: 27px;
+    /* margin-right: 100px; */
+    margin-bottom: 0;
+}
+.payment{
+    /* border: 2px solid rgb(52, 15, 125); */
+    height: 70px;
+    display: flex;
+    background: rgb(57, 248, 57);
+
+}
+.paydetail{
+    /* border: 2px solid tomato; */
+    height: 95%;
+    width: 60%;
+}
+.days{
+    /* border: 2px solid rgb(255, 249, 71); */
+    height: 95%;
+    width: 40%;
+    text-align: center;
+}
+.padbotom{
+    padding-bottom: 5px;
+}
+
