@@ -5,12 +5,14 @@
 }
 
 .gen{
-    /* height: 800px; */
+    height: 800px;
     width: 100%;
     /* border: 2px solid tomato; */
     padding-top: 10px;
     background: rgb(245, 245, 245);
     margin-bottom: 200px;
+    /* background: linear-gradient(to right, rgba(99,99,99,0.4),rgba(99,99,98,0.4)),url('./image/christmasBack.jpg'); */
+    
 }
 .imgCOn{
     display: flex;
@@ -117,4 +119,67 @@ margin-right: 10px;
 .prices{
     margin-top: 10px;
     font-size: 20px;
+}
+.thirdcon{
+    /* border: 2px solid tomato; */
+    display: flex;
+    justify-content: space-evenly;
+}
+.foodimg{
+    /* border: 2px solid rgb(71, 255, 141); */
+    height: 120px;
+    width: 120px;
+
+}
+.bigBox{
+    /* border: 2px solid blue; */
+    /* height: 300px; */
+    display: flex;
+    margin-top: 30px;
+}
+.first{
+    /* border: 2px solid rgb(0, 255, 149); */
+    width: 48%;
+    
+}
+.sec{
+    /* border: 2px solid rgb(255, 0, 0); */
+    width: 2%;
+    background: red;
+}
+.third{
+    /* border: 2px solid rgb(255, 0, 191); */
+    width: 48%;
+
+}
+.mini{
+    color: red;
+    font-weight: bold;
+    font-size: 12px;
+    margin-left: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.roundMark{
+    border: 2px solid rgb(255, 0, 0);
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background: red;
+    /* margin-right: 10px; */
+}
+.check{
+    color: white;
+}
+.markCon{
+    display: flex;
+    margin-bottom: 3px;
+    margin-left: 10px;
+    /* font-size: 13px; */
+    /* border: 2px solid rgb(0, 183, 255); */
+    /* height: 80px; */
+
+}
+.jollof{
+    font-size: 13px;
 }
